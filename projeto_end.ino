@@ -1,5 +1,5 @@
 /* Por Antonio David de Jesus santana, em 11/04/2023  
-    
+   E-mail: davidantoniodavi@gmail.com  
  */
 #include <Wire.h>
 #include <Adafruit_MLX90614.h>
